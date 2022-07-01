@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vitoria.spaoli/ProjetoAndroid/MyBike/app/src/main/res/layout/acessories_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/vitoria.spaoli/ProjetoAndroid/MyBike/app/src/main/res/layout/acessorio_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/vitoria.spaoli/ProjetoAndroid/MyBike/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/vitoria.spaoli/ProjetoAndroid/MyBike/app/src/main/res/layout/catalogos_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/vitoria.spaoli/ProjetoAndroid/MyBike/app/src/main/res/layout/menu_principal_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/vitoria.spaoli/ProjetoAndroid/MyBike/app/src/main/res/layout/reserva_layout.xml" value="0.18888888888888888" />
       </map>
     </option>
   </component>
